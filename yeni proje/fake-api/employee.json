@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "Berkan Koşumcu",
+      "department": "IT",
+      "salary": "9000",
+      "id": 1
+    },
+    {
+      "name": "Akif Tekeli",
+      "department": "IT",
+      "salary": "9000",
+      "id": 2
+    },
+    {
+      "name": "Ahsen Sevim",
+      "department": "IT",
+      "salary": "9000",
+      "id": 3
+    },
+    {
+      "name": "Enes Çelik",
+      "department": "IT",
+      "salary": "9000",
+      "id": 4
+    },
+    {
+      "name": "Ali Öztürk",
+      "department": "IT",
+      "salary": "9000",
+      "id": 5
+    }
+  ]
+}
